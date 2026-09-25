@@ -1,0 +1,29 @@
+# Plan de ejecución
+
+- [x] Reemplazar el enfoque de experiencia con imágenes por una interfaz de laboratorio renderizada en frontend.
+- [x] Construir una taxonomía de 300 herramientas de IA y sus estados de conexión.
+- [x] Diseñar búsqueda, filtros, favoritos, vista compacta y panel de detalle de herramientas.
+- [x] Añadir superficies interactivas para generadores de imagen, vídeo, música, poemas, letras, sueños y cartas.
+- [x] Activar un backend seguro que mantenga las credenciales fuera del navegador.
+- [x] Añadir un adaptador configurable para un modelo local compatible con Ollama/LM Studio y varios roles.
+- [x] Añadir un adaptador separado para un generador visual externo.
+- [x] Documentar cómo activar el endpoint local y el servicio visual externo mediante secretos del servidor.
+- [x] Verificar responsive, accesibilidad, seguridad de credenciales, estados vacíos, interacción y compilación.
+- [x] Implementar una vista compacta real del catálogo con un control de alternancia.
+- [x] Crear superficies diferenciadas para vídeo, poemas, letras, sueños y cartas.
+- [x] Añadir estados vacíos de búsqueda y reforzar foco, teclado y estados disabled/loading.
+- [x] Deshabilitar botones y campos mientras los roles o el atelier están procesando.
+- [x] Añadir cierre con Escape y foco inicial/devolución de foco para el drawer.
+- [x] Reforzar estilos de foco visibles y navegación completa por teclado.
+- [x] Deshabilitar también el input del role playground y el textarea del image atelier durante sus mutaciones.
+- [x] Integrar THE PORTAL como umbral narrativo interactivo.
+- [x] Implementar cinco diamantes/entidades con estados, símbolos y memorias.
+- [x] Implementar decisiones y puntuaciones de MEMORY, CREATION, DESIRE, FORGIVENESS y WILL.
+- [x] Añadir revelación del fragmento faltante y perfil personal de Judas.
+- [x] Verificar navegación de la narrativa, responsive y compilación.
+- [x] Implementar decisiones reales por diamante con respuestas que alteren cada puntuación.
+- [x] Añadir un bloque Your Judas Profile con interpretación personalizada.
+- [x] Verificar el Portal y los diamantes en navegador en escritorio y móvil.
+- [x] Persistir la respuesta de cada diamante y bloquear puntuaciones repetidas.
+- [x] Hacer que la revelación dependa de cinco decisiones únicas completadas.
+- [x] Añadir una prueba de lógica para impedir doble puntuación.
